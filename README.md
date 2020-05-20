@@ -1,1 +1,1 @@
-# SematicSegmentation
+# SemanticSegmentation
